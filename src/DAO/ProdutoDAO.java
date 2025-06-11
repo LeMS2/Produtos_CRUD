@@ -6,8 +6,8 @@ import java.util.*;
 
 public class ProdutoDAO {
     private final String url = "jdbc:mysql://localhost:3306/meu_banco";
-    private final String user = "leticia";
-    private final String password = "Crazyhair1*";
+    private final String user = "";
+    private final String password = "";
 
     public Connection conectar() throws SQLException {
         return DriverManager.getConnection(url, user, password);
