@@ -102,7 +102,7 @@ Projeto desenvolvido por:
 
 24341596-2 - Marina Zentil
 
-24047506-2 -Thiago Rodrigo
+24047506-2 - Thiago Rodrigo
 
 Curso: Análise e Desenvolvimento de Sistemas - UniCesumar
 
