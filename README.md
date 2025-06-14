@@ -46,6 +46,7 @@ projeto/
 
 Script para criar o banco e tabela:
 
+
 ```sql
 CREATE DATABASE IF NOT EXISTS meu_banco;
 USE meu_banco;
@@ -56,7 +57,7 @@ CREATE TABLE produtos (
     preco DOUBLE NOT NULL,
     quantidade INT NOT NULL
 );
-
+```
 -----------------------------------------------------
 
 ⚙️ Como executar o projeto
