@@ -95,9 +95,13 @@ git clone https://github.com/SEU_USUARIO/Produtos_CRUD.git
 Projeto desenvolvido por:
 
 24039432-2 - Danilo Vaz
+
 24329420-2 - Letícia Marques
+
 24503197-2 - Lilian Beatriz
+
 24341596-2 - Marina Zentil
+
 24047506-2 -Thiago Rodrigo
 
 Curso: Análise e Desenvolvimento de Sistemas - UniCesumar
