@@ -34,10 +34,15 @@ Este projeto é um sistema simples de cadastro de produtos desenvolvido com **Ja
 
 projeto/
 ├── model/ # Classe Produto.java
+
 ├── DAO/ # Classe ProdutoDAO.java
+
 ├── view/ # Interface gráfica (TelaPrincipal.java)
+
 ├── Main.java # Classe principal
+
 ├── README.md # Este arquivo
+
 └── .gitignore # Arquivos ignorados pelo Git
 
 ----------------------------------------------------
