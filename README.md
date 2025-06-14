@@ -75,10 +75,12 @@ git clone https://github.com/SEU_USUARIO/Produtos_CRUD.git
 4) Ajuste os dados de conexão no arquivo RepositorioProduto.java:
 
 	private final String url = "jdbc:mysql://localhost:3306/meu_banco";
+
 	private final String user = "seu_usuario";
+
 	private final String password = "sua_senha";
 
-5) Execute a classe Main.java para iniciar o sistema.
+6) Execute a classe Main.java para iniciar o sistema.
 
 🧪 Testes
 
